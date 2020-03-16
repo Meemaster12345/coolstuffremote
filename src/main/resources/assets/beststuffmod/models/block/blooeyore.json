@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "beststuffmod:blocks/blooeyore",
+    "up": "beststuffmod:blocks/blooeyore",
+    "north": "beststuffmod:blocks/blooeyore",
+    "east": "beststuffmod:blocks/blooeyore",
+    "south": "beststuffmod:blocks/blooeyore",
+    "west": "beststuffmod:blocks/blooeyore",
+    "particle": "beststuffmod:blocks/blooeyore"
+  }
+}
